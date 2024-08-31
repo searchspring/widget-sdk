@@ -45,7 +45,7 @@
     "sass-loader": "^4.0.2",
     "style-loader": "^0.13.1",
     "tap": "^8.0.0",
-    "webpack": "^1.13.3",
+    "webpack": "^5.94.0",
     "webpack-append": "^0.1.2",
     "webpack-stream": "^3.2.0"
   },
